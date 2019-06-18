@@ -3,7 +3,7 @@ layout: post
 title:
 author: Laurie Chapotte, EIG
 twitter: Lauriechapotte
-description: "En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr/recherche). Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?"
+description: "En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr/). Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?"
 ---
 
 En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr/recherche). Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…
